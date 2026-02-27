@@ -159,6 +159,9 @@ To move from "Project" to "Production Platform":
 
 ## Power BI Dashboard
 
+### Data Model
+![Data Model](images/dashboard_data_model.png)
+
 ### Page 1 — KPI Summary
 ![KPI Summary](images/dashboard_kpi_summary.png)
 
