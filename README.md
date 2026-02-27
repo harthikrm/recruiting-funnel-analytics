@@ -157,4 +157,17 @@ To move from "Project" to "Production Platform":
 
 ---
 
+## Power BI Dashboard
+
+### Page 1 — KPI Summary
+![KPI Summary](images/dashboard_kpi_summary.png)
+
+### Page 2 — Funnel Analysis
+![Funnel Analysis](images/dashboard_funnel.png)
+
+### Page 3 — Source & Department Breakdown
+![Source & Department](images/dashboard_breakdown.png)
+
+---
+
 *Built by Harthik Mallichetty · [LinkedIn](https://www.linkedin.com/in/harthikrm/) · MSBA @ UT Dallas*
