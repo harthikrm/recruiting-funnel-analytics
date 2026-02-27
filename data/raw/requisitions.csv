@@ -1,0 +1,181 @@
+req_id,opened_at,closed_at,department,role_family,level,location,priority,recruiter_id,hiring_manager_id,headcount
+REQ-rbxp2i,2024-04-12,2024-06-27,Finance,Supply Chain,Intern,"Austin, TX",Medium,R-019,HM-050,2
+REQ-momcw0,2026-01-07,,People,Software Engineering,Intern,"Fremont, CA",Low,R-010,HM-041,2
+REQ-dmcs6m,2024-07-08,2024-09-13,Operations,Finance,Intern,"Seattle, WA",High,R-011,HM-018,2
+REQ-ehho0a,2026-01-23,,Finance,Operations,Intern,"Palo Alto, CA",Medium,R-023,HM-049,3
+REQ-5tpwy0,2025-10-05,2025-12-24,Finance,Software Engineering,Intern,"Chicago, IL",Medium,R-006,HM-048,1
+REQ-2vg35x,2024-01-07,2024-03-10,Recruiting,Finance,Mid,"Fremont, CA",High,R-019,HM-059,3
+REQ-vskk1h,2025-10-29,2026-01-27,Finance,Operations,Senior,"Seattle, WA",High,R-007,HM-038,1
+REQ-e4of63,2024-09-06,2024-11-26,Supply Chain,Finance,Intern,"Austin, TX",Medium,R-010,HM-057,2
+REQ-bb6xzp,2025-08-17,2026-01-14,Finance,Supply Chain,Senior,"New York, NY",Medium,R-020,HM-020,1
+REQ-tyfg2e,2025-04-15,2025-09-10,People,Sales,Senior,"Chicago, IL",Medium,R-020,HM-007,2
+REQ-6ljxe6,2025-03-30,2025-07-02,Operations,Software Engineering,Entry,"Chicago, IL",Low,R-018,HM-042,1
+REQ-adgs5h,2025-06-04,2025-07-23,Operations,Sales,Entry,"Fremont, CA",Medium,R-006,HM-035,1
+REQ-jzae55,2024-07-28,2024-10-07,Operations,Sales,Entry,"New York, NY",Medium,R-003,HM-041,1
+REQ-i2afi4,2025-08-12,2025-10-20,Supply Chain,Operations,Entry,"Fremont, CA",High,R-014,HM-029,2
+REQ-23rb1w,2025-02-06,2025-04-22,People,Software Engineering,Senior,"Chicago, IL",High,R-014,HM-046,1
+REQ-oqbt55,2025-09-07,2026-01-01,Sales,HR,Entry,"Austin, TX",Low,R-015,HM-042,1
+REQ-m24bih,2024-07-09,2024-09-17,Recruiting,HR,Mid,"Remote, US",Low,R-001,HM-045,2
+REQ-y2v58f,2024-07-31,2024-10-24,Supply Chain,Sales,Entry,"Palo Alto, CA",Medium,R-006,HM-028,1
+REQ-m5p39v,2025-12-18,,Engineering,Supply Chain,Entry,"New York, NY",Medium,R-025,HM-047,3
+REQ-8zitzh,2024-01-22,2024-04-08,People,Data Analytics,Entry,"Remote, US",High,R-019,HM-013,1
+REQ-6x8w1q,2024-04-14,2024-08-23,People,Sales,Intern,"New York, NY",High,R-002,HM-018,2
+REQ-g5m61i,2025-09-10,2025-12-05,Finance,Supply Chain,Mid,"Seattle, WA",Low,R-003,HM-053,1
+REQ-cpugcg,2024-08-08,2024-11-13,Engineering,Operations,Senior,"Chicago, IL",Low,R-012,HM-001,1
+REQ-399ara,2024-12-14,2025-04-02,Finance,Supply Chain,Mid,"Seattle, WA",Medium,R-022,HM-037,1
+REQ-v2o2qs,2025-12-14,,People,Sales,Entry,"Remote, US",Low,R-008,HM-035,2
+REQ-736mv3,2026-01-27,,Finance,Operations,Mid,"Palo Alto, CA",High,R-006,HM-011,2
+REQ-6umh4g,2025-09-14,2025-12-19,Recruiting,Finance,Mid,"Seattle, WA",Low,R-012,HM-019,2
+REQ-doxm7z,2025-04-24,2025-09-13,Recruiting,Data Analytics,Senior,"New York, NY",Medium,R-011,HM-007,1
+REQ-y93pom,2024-09-13,2024-10-31,Finance,Data Analytics,Mid,"Chicago, IL",Low,R-009,HM-005,2
+REQ-rr7fie,2025-07-22,2025-11-19,Supply Chain,Finance,Senior,"Remote, US",High,R-015,HM-056,1
+REQ-8bz53g,2025-09-01,2026-01-16,People,HR,Intern,"Fremont, CA",High,R-003,HM-029,1
+REQ-c2sw01,2024-07-17,2024-09-06,Operations,HR,Mid,"Chicago, IL",Medium,R-024,HM-044,2
+REQ-4lf3cf,2024-11-05,2025-01-04,People,Operations,Senior,"Fremont, CA",Medium,R-007,HM-005,1
+REQ-dv8i96,2024-10-28,2025-01-15,Finance,Supply Chain,Senior,"Fremont, CA",Low,R-002,HM-053,3
+REQ-p12uj3,2025-10-12,2025-11-23,Recruiting,Software Engineering,Intern,"Seattle, WA",Low,R-008,HM-046,3
+REQ-ptndbb,2025-02-24,2025-06-12,Recruiting,Supply Chain,Entry,"Palo Alto, CA",Low,R-023,HM-017,1
+REQ-adbs9c,2024-12-13,2025-04-01,People,Supply Chain,Senior,"Seattle, WA",Medium,R-021,HM-051,2
+REQ-wgcuu5,2024-09-29,2024-10-19,Supply Chain,Data Analytics,Entry,"Chicago, IL",Low,R-001,HM-018,1
+REQ-glrhhk,2025-11-17,,Recruiting,Data Analytics,Senior,"Palo Alto, CA",Low,R-002,HM-052,2
+REQ-a4aakh,2024-01-09,2024-04-02,Engineering,Operations,Mid,"Palo Alto, CA",High,R-015,HM-037,1
+REQ-kbr9fy,2025-03-19,2025-06-29,People,Software Engineering,Mid,"New York, NY",High,R-015,HM-009,1
+REQ-xr2cs1,2024-07-15,2024-08-13,Supply Chain,Supply Chain,Senior,"Chicago, IL",High,R-015,HM-032,1
+REQ-p075hr,2026-01-29,,People,Data Analytics,Entry,"Remote, US",Low,R-020,HM-035,2
+REQ-d8iqwf,2024-08-26,2025-01-25,Operations,Supply Chain,Senior,"Fremont, CA",Low,R-009,HM-024,3
+REQ-ejms73,2025-01-26,2025-03-17,Recruiting,Finance,Senior,"Remote, US",High,R-008,HM-018,1
+REQ-etyr9x,2025-11-19,2025-12-09,Supply Chain,Operations,Intern,"Fremont, CA",High,R-021,HM-051,1
+REQ-d52sw6,2024-08-04,2024-11-16,Recruiting,HR,Mid,"Fremont, CA",High,R-013,HM-047,2
+REQ-fnklgi,2024-08-05,2025-01-22,Engineering,Sales,Intern,"Chicago, IL",High,R-011,HM-017,3
+REQ-bos46a,2024-12-25,2025-05-29,Recruiting,Finance,Senior,"Chicago, IL",Low,R-025,HM-023,2
+REQ-hukb6m,2024-06-28,2024-09-04,People,Operations,Mid,"Remote, US",Low,R-022,HM-021,3
+REQ-j74q7s,2024-08-22,2024-12-12,Finance,Finance,Senior,"New York, NY",Medium,R-023,HM-033,3
+REQ-5t27fz,2025-04-21,2025-08-09,People,Software Engineering,Intern,"Remote, US",Low,R-024,HM-003,1
+REQ-qfx7a1,2025-03-15,2025-08-23,Operations,Sales,Intern,"Austin, TX",Low,R-010,HM-026,1
+REQ-dpyta7,2024-04-12,2024-08-13,Recruiting,Data Analytics,Mid,"Seattle, WA",Medium,R-014,HM-031,2
+REQ-cp8fp1,2024-01-07,2024-04-09,Operations,HR,Senior,"Austin, TX",High,R-009,HM-037,1
+REQ-tqeaeq,2025-07-27,2025-10-01,Supply Chain,Data Analytics,Entry,"Fremont, CA",Low,R-011,HM-030,1
+REQ-1yxi1q,2024-08-19,2024-10-02,Engineering,Operations,Senior,"Chicago, IL",Medium,R-025,HM-034,1
+REQ-uwr6v3,2025-10-25,2025-12-24,Recruiting,HR,Entry,"Chicago, IL",Low,R-009,HM-052,2
+REQ-8sdqw5,2025-10-18,,Finance,Supply Chain,Entry,"Palo Alto, CA",Medium,R-019,HM-011,1
+REQ-ka4e7y,2024-10-10,2025-02-08,Recruiting,Data Analytics,Senior,"Remote, US",Medium,R-008,HM-009,2
+REQ-i37y3d,2025-10-16,2026-01-14,Supply Chain,Data Analytics,Entry,"New York, NY",Medium,R-020,HM-006,2
+REQ-6raj6q,2025-11-12,2025-12-15,Engineering,Finance,Entry,"Palo Alto, CA",Medium,R-022,HM-031,2
+REQ-k922ln,2024-12-22,2025-04-13,Operations,Data Analytics,Entry,"Fremont, CA",Low,R-003,HM-053,3
+REQ-mdcv7a,2025-10-26,2026-01-15,Engineering,Data Analytics,Senior,"Austin, TX",Medium,R-004,HM-016,2
+REQ-0xh2me,2024-03-25,2024-07-20,Recruiting,Finance,Mid,"Palo Alto, CA",Low,R-021,HM-056,1
+REQ-p7x80n,2024-12-28,2025-04-01,Engineering,Supply Chain,Mid,"Chicago, IL",Low,R-011,HM-050,3
+REQ-peo8l1,2025-01-23,2025-05-17,Finance,Finance,Mid,"Palo Alto, CA",High,R-005,HM-027,1
+REQ-2dj3lp,2024-04-08,2024-05-26,Supply Chain,Operations,Entry,"New York, NY",High,R-005,HM-047,3
+REQ-xntjw3,2025-04-24,2025-10-04,People,Operations,Intern,"Fremont, CA",Low,R-005,HM-013,2
+REQ-mnimch,2024-04-28,2024-08-13,People,Finance,Mid,"Chicago, IL",Low,R-017,HM-034,1
+REQ-bb3l5z,2025-08-20,2025-11-10,Finance,Data Analytics,Senior,"Remote, US",Low,R-012,HM-017,1
+REQ-236mkz,2024-10-15,2024-12-07,Sales,Sales,Senior,"Palo Alto, CA",Medium,R-025,HM-059,3
+REQ-jo2ilk,2024-12-02,2024-12-22,Recruiting,Data Analytics,Senior,"Austin, TX",Medium,R-019,HM-035,2
+REQ-57ote0,2024-12-27,2025-03-26,Sales,Operations,Mid,"Remote, US",Low,R-016,HM-030,2
+REQ-v23u65,2025-07-29,2025-10-17,People,HR,Senior,"Austin, TX",High,R-004,HM-009,2
+REQ-e5jq4j,2025-06-11,2025-09-21,Operations,Finance,Entry,"Seattle, WA",Medium,R-002,HM-006,1
+REQ-1c4w9i,2024-07-26,2024-10-09,Supply Chain,Finance,Mid,"New York, NY",Low,R-015,HM-037,3
+REQ-f8m72z,2025-07-03,2025-11-03,Operations,Software Engineering,Intern,"Chicago, IL",Medium,R-025,HM-004,2
+REQ-hnxiyy,2025-09-08,2025-11-01,Finance,Operations,Entry,"Chicago, IL",High,R-020,HM-033,2
+REQ-7jjfum,2024-11-27,2025-03-27,People,Software Engineering,Senior,"Austin, TX",Medium,R-019,HM-059,1
+REQ-joj7lz,2024-03-19,2024-06-01,Operations,Finance,Mid,"Remote, US",Medium,R-024,HM-033,2
+REQ-5g00r5,2025-08-30,2025-09-28,People,Finance,Entry,"New York, NY",High,R-004,HM-034,1
+REQ-i47kah,2024-04-12,2024-07-12,Engineering,Sales,Entry,"New York, NY",Medium,R-004,HM-030,1
+REQ-o3z1jb,2024-08-23,2025-02-01,People,Sales,Mid,"Chicago, IL",Medium,R-004,HM-006,1
+REQ-fns88m,2024-04-25,2024-05-31,Engineering,Finance,Entry,"Seattle, WA",High,R-020,HM-011,1
+REQ-b1kwvg,2025-10-17,2026-01-05,Finance,Finance,Entry,"New York, NY",Medium,R-016,HM-031,1
+REQ-2gwlj6,2024-04-05,2024-05-04,Engineering,HR,Senior,"Fremont, CA",High,R-005,HM-046,1
+REQ-p8v1uc,2025-01-28,2025-04-26,Operations,Data Analytics,Intern,"Austin, TX",Low,R-013,HM-001,1
+REQ-r1cgwj,2025-05-15,2025-08-28,People,Supply Chain,Senior,"Seattle, WA",High,R-013,HM-051,2
+REQ-7m5c6r,2025-10-10,,Recruiting,Data Analytics,Mid,"Fremont, CA",Low,R-018,HM-037,1
+REQ-ucqb39,2025-11-29,,Recruiting,Sales,Entry,"Remote, US",Low,R-015,HM-029,3
+REQ-46derg,2024-07-10,2024-11-08,Operations,Data Analytics,Mid,"Seattle, WA",Medium,R-002,HM-058,1
+REQ-9fyy9v,2025-11-21,2026-01-31,Supply Chain,Finance,Intern,"Seattle, WA",Low,R-014,HM-035,1
+REQ-zacfax,2024-11-26,2025-02-08,Sales,Data Analytics,Entry,"Remote, US",Low,R-017,HM-038,3
+REQ-49mi9z,2024-04-13,2024-05-03,Finance,Sales,Intern,"Fremont, CA",Low,R-007,HM-005,2
+REQ-3366sq,2024-02-03,2024-04-07,Operations,Data Analytics,Senior,"Palo Alto, CA",Medium,R-020,HM-002,1
+REQ-hh3tt2,2024-04-22,2024-07-20,Supply Chain,Data Analytics,Mid,"Austin, TX",Medium,R-011,HM-001,3
+REQ-g2k87b,2025-12-01,,Finance,Finance,Senior,"New York, NY",High,R-012,HM-034,1
+REQ-zrmt8a,2024-07-30,2024-08-31,Operations,Supply Chain,Intern,"Palo Alto, CA",Medium,R-002,HM-019,2
+REQ-w6giok,2024-06-06,2024-07-28,Sales,Software Engineering,Senior,"Fremont, CA",High,R-014,HM-022,1
+REQ-d6kyb2,2025-01-28,2025-07-22,Engineering,Finance,Mid,"Remote, US",High,R-011,HM-059,2
+REQ-b8jod5,2024-04-17,2024-07-10,Operations,Finance,Entry,"Palo Alto, CA",High,R-007,HM-055,1
+REQ-ukp581,2025-03-18,2025-05-06,Sales,Sales,Mid,"Austin, TX",Medium,R-018,HM-058,1
+REQ-yyzu05,2025-01-13,2025-05-15,People,HR,Mid,"Seattle, WA",Medium,R-015,HM-018,1
+REQ-w8do3p,2025-12-02,,People,Software Engineering,Senior,"Palo Alto, CA",Low,R-017,HM-029,1
+REQ-wxqwlq,2026-01-13,,Recruiting,Data Analytics,Entry,"Palo Alto, CA",High,R-007,HM-057,3
+REQ-4pjyv9,2024-07-22,2024-10-31,Operations,Software Engineering,Senior,"Seattle, WA",Low,R-009,HM-029,1
+REQ-abwhm2,2024-06-29,2024-08-13,Supply Chain,Sales,Mid,"New York, NY",High,R-006,HM-028,1
+REQ-66fb81,2024-11-15,2025-03-14,Engineering,Finance,Entry,"New York, NY",Low,R-011,HM-050,1
+REQ-rforgc,2024-10-21,2025-01-18,Supply Chain,Software Engineering,Intern,"Austin, TX",High,R-025,HM-022,1
+REQ-qsu2ei,2025-01-30,2025-05-07,People,Operations,Entry,"Palo Alto, CA",Medium,R-013,HM-002,1
+REQ-at0a57,2024-02-18,2024-05-01,Supply Chain,Supply Chain,Entry,"New York, NY",High,R-020,HM-003,2
+REQ-zhh6c6,2024-10-19,2025-01-07,Engineering,HR,Senior,"Palo Alto, CA",High,R-007,HM-009,1
+REQ-vl0twy,2024-07-27,2024-12-05,Supply Chain,Sales,Senior,"Remote, US",Low,R-024,HM-032,2
+REQ-2pajn3,2024-04-03,2024-07-10,Supply Chain,Software Engineering,Entry,"Remote, US",Medium,R-002,HM-004,1
+REQ-20c5rl,2024-11-24,2025-02-23,Operations,Software Engineering,Senior,"Seattle, WA",Medium,R-003,HM-043,2
+REQ-036i6q,2024-02-04,2024-05-30,Engineering,HR,Intern,"Palo Alto, CA",Medium,R-023,HM-032,1
+REQ-230jns,2025-10-14,,Sales,Data Analytics,Entry,"Palo Alto, CA",High,R-024,HM-032,1
+REQ-ljrnic,2024-08-16,2024-12-01,Recruiting,Finance,Senior,"Fremont, CA",Medium,R-007,HM-046,2
+REQ-jucfhh,2024-05-07,2024-08-25,Supply Chain,Supply Chain,Entry,"Austin, TX",Medium,R-019,HM-051,3
+REQ-aq3h8x,2025-06-26,2025-09-03,Recruiting,Operations,Mid,"Seattle, WA",Medium,R-025,HM-023,1
+REQ-p7rn3j,2024-01-29,2024-04-02,People,Sales,Senior,"New York, NY",Low,R-010,HM-021,1
+REQ-pviddy,2024-01-16,2024-05-13,People,Operations,Mid,"New York, NY",High,R-013,HM-032,2
+REQ-7381on,2025-09-27,2026-01-07,Sales,Finance,Senior,"New York, NY",Medium,R-009,HM-031,1
+REQ-9bmay7,2025-09-05,2026-01-15,Supply Chain,Finance,Entry,"Seattle, WA",Medium,R-010,HM-022,1
+REQ-57cnkw,2025-05-24,2025-08-05,Finance,Sales,Entry,"Seattle, WA",High,R-017,HM-032,1
+REQ-9qkjfp,2025-07-26,2025-10-23,People,Finance,Mid,"Chicago, IL",Low,R-014,HM-057,1
+REQ-vvt2is,2024-12-24,2025-05-12,Supply Chain,Finance,Mid,"Austin, TX",Low,R-013,HM-052,1
+REQ-rk4pvi,2024-11-19,2025-03-12,Supply Chain,HR,Intern,"Palo Alto, CA",Low,R-002,HM-013,2
+REQ-dz93i3,2025-07-26,2025-09-30,Recruiting,Data Analytics,Intern,"Remote, US",High,R-009,HM-043,2
+REQ-amslsl,2025-03-30,2025-05-07,Engineering,Finance,Mid,"Palo Alto, CA",Low,R-019,HM-026,1
+REQ-dcgv7m,2024-04-01,2024-08-03,People,Supply Chain,Entry,"Palo Alto, CA",Low,R-015,HM-037,1
+REQ-5hszdi,2025-04-25,2025-07-15,Operations,Sales,Senior,"Seattle, WA",Medium,R-008,HM-043,1
+REQ-93t3m5,2024-02-21,2024-03-12,Finance,Sales,Mid,"Austin, TX",Medium,R-021,HM-035,1
+REQ-7ly6yv,2025-04-10,2025-08-06,People,Supply Chain,Intern,"Remote, US",High,R-014,HM-009,1
+REQ-jpvwp8,2025-08-20,2025-11-01,Finance,Software Engineering,Senior,"Remote, US",High,R-018,HM-019,2
+REQ-esne8q,2024-06-01,2024-11-13,Sales,Sales,Intern,"Austin, TX",Low,R-005,HM-042,2
+REQ-93rc1y,2025-11-06,2025-12-24,Finance,Operations,Entry,"Remote, US",Low,R-007,HM-035,3
+REQ-8qde12,2025-05-14,2025-08-26,People,Data Analytics,Intern,"Chicago, IL",Medium,R-012,HM-047,1
+REQ-2gk9jy,2025-10-27,2025-12-19,Engineering,Data Analytics,Intern,"New York, NY",Medium,R-014,HM-027,2
+REQ-h2v9ms,2024-06-09,2024-09-16,Operations,Software Engineering,Entry,"New York, NY",Low,R-011,HM-016,2
+REQ-ydjixl,2025-02-16,2025-04-26,Supply Chain,Supply Chain,Mid,"Austin, TX",High,R-009,HM-058,2
+REQ-ffkk1m,2025-06-03,2025-10-15,Sales,Operations,Mid,"Austin, TX",High,R-020,HM-014,1
+REQ-0igbv7,2024-03-06,2024-06-12,Finance,Supply Chain,Senior,"Austin, TX",Low,R-009,HM-018,3
+REQ-a7hawq,2025-09-27,2025-10-17,Recruiting,Finance,Entry,"Fremont, CA",High,R-011,HM-045,1
+REQ-y7e5rx,2024-03-31,2024-07-02,Sales,Sales,Mid,"Palo Alto, CA",Medium,R-015,HM-026,2
+REQ-cem8ml,2024-10-15,2024-11-29,Recruiting,Operations,Senior,"Austin, TX",Low,R-013,HM-027,1
+REQ-pmyu2u,2025-01-18,2025-03-11,Supply Chain,Software Engineering,Mid,"Fremont, CA",Medium,R-023,HM-004,3
+REQ-38m7d5,2024-05-31,2024-10-08,Supply Chain,HR,Entry,"Chicago, IL",Low,R-019,HM-004,1
+REQ-pr4tw5,2025-08-28,,Finance,Software Engineering,Mid,"Remote, US",Medium,R-016,HM-013,1
+REQ-h5u3vv,2025-07-13,2025-10-24,Recruiting,Software Engineering,Senior,"Austin, TX",High,R-020,HM-008,1
+REQ-fpvu2l,2024-12-06,2025-03-15,People,Data Analytics,Mid,"Remote, US",Low,R-003,HM-051,1
+REQ-0py9b7,2025-03-23,2025-06-25,Sales,HR,Mid,"Seattle, WA",Low,R-002,HM-001,1
+REQ-z4gjhj,2024-11-25,2025-04-26,Operations,Software Engineering,Entry,"Chicago, IL",High,R-014,HM-038,1
+REQ-dfy9zw,2025-03-29,2025-07-04,Sales,Finance,Entry,"Fremont, CA",Medium,R-013,HM-046,1
+REQ-slqbw6,2024-07-04,2024-10-12,Sales,Supply Chain,Mid,"Chicago, IL",Medium,R-004,HM-004,1
+REQ-vhtnbb,2026-01-18,,Recruiting,Data Analytics,Senior,"Fremont, CA",High,R-005,HM-022,1
+REQ-s4xrql,2024-01-22,2024-04-02,Sales,Operations,Senior,"Austin, TX",Medium,R-006,HM-036,1
+REQ-x8xijp,2025-08-22,2025-09-11,Engineering,Software Engineering,Entry,"Chicago, IL",Medium,R-013,HM-023,1
+REQ-x8y4t7,2025-12-28,,Supply Chain,Data Analytics,Mid,"Palo Alto, CA",High,R-014,HM-048,3
+REQ-helh91,2024-09-09,2025-01-30,Supply Chain,Supply Chain,Mid,"Austin, TX",High,R-016,HM-026,1
+REQ-unzu6o,2024-11-11,2025-03-09,Supply Chain,Sales,Intern,"Austin, TX",High,R-025,HM-059,3
+REQ-7zqlg4,2025-07-01,2025-09-12,People,Operations,Mid,"Chicago, IL",Low,R-003,HM-001,2
+REQ-ug5l0m,2024-06-18,2024-09-07,Sales,Supply Chain,Mid,"Remote, US",High,R-007,HM-030,1
+REQ-xiobcf,2025-07-04,2025-11-29,Sales,Operations,Entry,"Austin, TX",Low,R-020,HM-055,1
+REQ-qthrgu,2024-05-20,2024-08-06,Recruiting,Data Analytics,Entry,"Palo Alto, CA",High,R-025,HM-010,1
+REQ-l9gfvn,2025-02-28,2025-03-27,Recruiting,Finance,Mid,"Seattle, WA",Medium,R-005,HM-036,2
+REQ-jqpxvl,2025-11-30,,Finance,Data Analytics,Senior,"Seattle, WA",Low,R-022,HM-043,1
+REQ-krqwb9,2024-08-17,2024-12-08,Finance,Software Engineering,Mid,"Palo Alto, CA",Medium,R-014,HM-026,3
+REQ-nlupya,2024-11-18,2024-12-16,Finance,Finance,Mid,"Fremont, CA",High,R-014,HM-033,1
+REQ-fym0tm,2025-09-12,2026-01-16,Engineering,Operations,Senior,"Fremont, CA",High,R-016,HM-051,1
+REQ-gn1f32,2025-08-16,2025-12-03,Operations,Sales,Entry,"New York, NY",Low,R-021,HM-020,2
+REQ-z573vf,2025-09-08,2025-11-12,Recruiting,Finance,Mid,"New York, NY",Low,R-007,HM-050,1
+REQ-yiw59o,2024-02-12,2024-04-11,Recruiting,Data Analytics,Mid,"Austin, TX",Medium,R-020,HM-047,1
+REQ-0dbnsg,2025-08-28,2025-11-07,Supply Chain,Supply Chain,Senior,"Remote, US",High,R-024,HM-034,1
+REQ-z87wg8,2025-01-10,2025-03-07,Finance,Operations,Intern,"Remote, US",Low,R-022,HM-060,1
+REQ-2x6msp,2025-04-11,2025-09-04,People,Operations,Senior,"Remote, US",Low,R-008,HM-043,2
+REQ-kbutzi,2024-03-28,2024-05-21,Recruiting,Supply Chain,Entry,"Seattle, WA",Low,R-004,HM-026,2
+REQ-ugqv2x,2025-01-30,2025-03-31,Supply Chain,Software Engineering,Senior,"New York, NY",High,R-008,HM-041,3
+REQ-8ta15f,2025-01-16,2025-05-06,Supply Chain,Data Analytics,Intern,"New York, NY",Low,R-004,HM-033,1
