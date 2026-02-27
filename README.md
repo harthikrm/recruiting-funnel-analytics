@@ -1,6 +1,6 @@
 # Recruiting Funnel & People Analytics
 
-## 🎯 Project Goal: A Product-Centric Recruiting Data System
+## Project Goal: A Product-Centric Recruiting Data System
 **Optimize Hiring Velocity & conversion through rigorous data engineering.**
 This project builds a **production-grade recruiting analytics product** to solve a critical business problem: **High time-to-hire and opaque funnel drop-offs.**
 
@@ -11,14 +11,14 @@ Aligned with Tesla's **"Product-Centric"** philosophy for internal tools, this r
 
 ---
 
-## 🛠️ Tech Stack & Method
+## Tech Stack & Method
 - **SQL (MySQL)**: Advanced relational modeling, CTEs, and window functions.
 - **Data Engineering**: "ELT" pattern — loading raw data, validating integrity, then transforming into a reporting layer.
 - **Data Quality**: Automated test suite detecting duplicates, orphans, and logic violations (e.g., *Hired without Offer*).
 
 ---
 
-## 📊 Dataset
+## Dataset
 Synthetic ATS-style data across 6 interrelated tables:
 
 | Table | Rows | Description |
@@ -39,7 +39,7 @@ Synthetic ATS-style data across 6 interrelated tables:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 recruiting-funnel-analytics/
 ├── data/
@@ -65,7 +65,7 @@ recruiting-funnel-analytics/
 
 ---
 
-## 🔄 Data Lineage (ETL Pipeline)
+## Data Lineage (ETL Pipeline)
 The architecture follows a strict "Raw → Silver → Gold" progression to ensure traceability:
 
 ```mermaid
@@ -84,7 +84,7 @@ graph LR
 
 ---
 
-## ⚙️ Key Technical Components
+## Key Technical Components
 
 ### 1. Reporting Layer (`sql/05_reporting_layer.sql`)
 Instead of messy ad-hoc queries, I built a reliable `application_lifecycle` view:
@@ -95,10 +95,10 @@ Instead of messy ad-hoc queries, I built a reliable `application_lifecycle` view
 
 ### 2. Data Quality Suite (`sql/04_data_quality_tests.sql`)
 Trust is paramount. 9 automated tests validate:
-- ✅ **Referential Integrity**: No "ghost" offers without applications
-- ✅ **Stage Logic**: No "Offer" timestamps occurring *before* "Onsite"
-- ✅ **Uniqueness**: Detects 12 intentional duplicate applications in the raw stream
-- ✅ **Process Violations**: Hired without Offer, negative durations, null timestamps
+- **Referential Integrity**: No "ghost" offers without applications
+- **Stage Logic**: No "Offer" timestamps occurring *before* "Onsite"
+- **Uniqueness**: Detects 12 intentional duplicate applications in the raw stream
+- **Process Violations**: Hired without Offer, negative durations, null timestamps
 
 ### 3. Upstream System Gap Analysis (`docs/system_gap_analysis.md`)
 Goes beyond SQL to identify 4 structural ATS weaknesses with root causes and mitigations:
@@ -116,7 +116,7 @@ Goes beyond SQL to identify 4 structural ATS weaknesses with root causes and mit
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 | Metric | Value |
 |---|---|
@@ -131,7 +131,7 @@ Goes beyond SQL to identify 4 structural ATS weaknesses with root causes and mit
 
 ---
 
-## 💼 Business Impact & Systems Thinking
+## Business Impact & Systems Thinking
 *Why this matters to the Head of People:*
 - **OAR Monitoring**: If Offer Acceptance Rate drops from 75% to 60%, this system detects it immediately via `recruiting_kpis_weekly`, enabling investigation of comp band competitiveness or recruiter closing skills.
 - **Velocity Bottlenecks**: If Time-to-Hire increases by 15%, the granularity of `application_lifecycle` pinpoints exactly which stage is dragging — indicating a process bottleneck rather than a market issue.
@@ -139,7 +139,7 @@ Goes beyond SQL to identify 4 structural ATS weaknesses with root causes and mit
 
 ---
 
-## 🛠️ CI/CD & Automation (Next Steps)
+## CI/CD & Automation (Next Steps)
 To move from "Project" to "Production Platform":
 1. **Automated Testing**: Integrate `sql/04_data_quality_tests.sql` into a CI pipeline (GitHub Actions/dbt). Verification runs on every PR.
 2. **Orchestration**: Schedule `01_load_data.sql` and `05_reporting_layer.sql` via Airflow DAGs to run daily at 6 AM UTC.
@@ -147,7 +147,7 @@ To move from "Project" to "Production Platform":
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. **Initialize DB**: `source sql/00_create_tables.sql`
 2. **Ingest Data**: `source sql/01_load_data.sql`
    *(Handles ISO8601 date parsing)*
